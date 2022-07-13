@@ -256,7 +256,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer
-  jekyll-remote-theme
   rake
 
 BUNDLED WITH
